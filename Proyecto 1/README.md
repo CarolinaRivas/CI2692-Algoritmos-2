@@ -12,18 +12,18 @@
 
 ##El proyecto posee los siguientes archivos:
 
-*- arrayT.py *:
+**- arrayT.py**:
 	
 	Archivo proporcionado por los profesores de laboratorio.
 	El mismo se encarga de implementar el Tipo Abstracto de Datos (ADT) o Clase Arreglo de T con ayuda del modulo 
 	<ctypes> de pyhton.
 
-*- ordenamiento.py*:
+**- ordenamiento.py**:
 	
 	Archivo o módulo con la implementacion de algoritmos de ordenamientos antes citados. Estos algoritmos son 
 	aplicados sobre listas de elementos de tipo numerico 
 
-*- cliente_ordenamiento.py*:
+**- cliente_ordenamiento.py**:
 
 	Cliente o main del proyecto. Importa los algoritmos de ordenamiento para realizar una comparar el desempeño entre
 	ellos a traves del tiempo y graficas. Funciona creando arreglos de distintos tamaños con números aleatorios.
